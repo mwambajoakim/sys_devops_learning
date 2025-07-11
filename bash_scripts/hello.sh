@@ -1,7 +1,4 @@
-#!/usr/bin/bash
-echo "What's your name stranger?"
+#!/bin/bash
+read -p "What is your name? " name
 
-read name
-
-echo "Hello, $name"
-
+echo "Hello, $name!"
