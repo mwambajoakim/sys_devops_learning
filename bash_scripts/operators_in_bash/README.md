@@ -9,8 +9,14 @@
 |Operator|	|Description|
 ----------      -------------
 |+|		|Addition|
+---             ----------
 |-|		|Substraction|
+---             --------------
 |*|		|Multiplication|
+---             ----------------
 |/|		|Integer division (without decimal numbers)|
+---             --------------------------------------------
 |%|		|Modulus division (gives only remainder)|
+---             -----------------------------------------
 |**|		|exponentiation (x to the power y)|
+----            -----------------------------------
