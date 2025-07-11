@@ -7,7 +7,7 @@
 
 ```
 |Operator|	|Description|
------------------------------
+----------      -------------
 |+|		|Addition|
 |-|		|Substraction|
 |*|		|Multiplication|
